@@ -1,0 +1,14 @@
+.card {
+  background-color: burlywood;
+  width: 200px;
+  border-radius: 16px;
+  padding: 5px;
+}
+
+h1 {
+  color: rebeccapurple;
+}
+
+p {
+  color: tomato;
+}

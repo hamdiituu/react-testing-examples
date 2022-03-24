@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Videos Empty Renders : Video Not Found! 1`] = `
+<h3>
+  Video Not Found!
+</h3>
+`;
+
+exports[`Videos List Renders 1`] = `
+<ul>
+  <li>
+    Udemy
+  </li>
+  <li>
+    Video
+  </li>
+  <li>
+    Snappy
+  </li>
+</ul>
+`;
